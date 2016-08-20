@@ -23,8 +23,3 @@ while (Sexo != "F" and Sexo != "M"):
 while (EstadoCivil != "S" and EstadoCivil != "C" and EstadoCivil != "V" and EstadoCivil != "D"):
     print("Valor inválido")
     EstadoCivil = str(input("Digite um estado civil:"))
-    
-    
-    
-    
-       
