@@ -7,8 +7,3 @@ for N in range(0,4):
         Maior = Numero
 
 print(("O maior número é:"),Maior)
-        
-
-
-        
-
